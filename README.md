@@ -9,8 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JosephSchh/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JosephSchh/azure-network-protocols)
-- <b>Azure Sentinal</b>
-  - [SIEM Tutorial](https://github.com/JosephSchh/SIEM-Tutorial)
+  - [Network File Shares and Permissions](https://github.com/JosephSchh/file-shares-permissions)
 
 
 
