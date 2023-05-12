@@ -1,4 +1,4 @@
-#<h1>Hi, I'm Joseph, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+#<h1>Hi, I'm Joseph, an <a href="https://www.linkedin.com/in/joseph-schneider22/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -17,7 +17,5 @@
 
 
 [<img align="left" alt="Joseph | LinkedIn" width="22px" src="https://www.linkedin.com/in/joseph-schneider22/" />][linkedin]
-[<img align="left" alt="Joseph | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/joseph.schneider22
 [linkedin]: https://www.linkedin.com/in/joseph-schneider22/
