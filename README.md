@@ -1,4 +1,4 @@
-#<h1>Hi, I'm Joseph, an <a href="https://www.linkedin.com/in/joseph-schneider22/">IT Professional</a>☺</h1>
+#<h1>Hi, I'm Joseph 👋
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
